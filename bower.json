@@ -1,0 +1,24 @@
+{
+  "name": "circulate",
+  "version": "1.0.0",
+  "authors": [
+    "Simon Kusterer <simon@sope.io>"
+  ],
+  "description": "circulate over an array",
+  "main": "circulate.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "array",
+    "loop",
+    "circulate",
+    "circular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xat/circulate",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}

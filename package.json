@@ -1,0 +1,27 @@
+{
+  "name": "array-loop",
+  "version": "1.0.0",
+  "description": "endless looping over array items",
+  "main": "circulate.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xat/circulate.git"
+  },
+  "keywords": [
+    "array",
+    "loop"
+  ],
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xat/circulate/issues"
+  },
+  "homepage": "https://github.com/xat/circulate",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1"
+  }
+}

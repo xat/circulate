@@ -17,7 +17,11 @@ next(); // 2
 
 ## Installation
 
-### Browser
+### Node
+
+```npm install array-loop```
+
+### Bower
 
 ```bower install circulate```
 
